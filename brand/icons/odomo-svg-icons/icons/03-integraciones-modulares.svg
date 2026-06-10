@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">ODOMO - Integraciones modulares</title>
+  <desc id="desc">Bloques conectados al centro para simbolizar tecnologia, APIs y sistemas unidos.</desc>
+  <rect fill="#15201A" x="57" y="57" width="54" height="54" rx="14"/>
+  <rect fill="#15201A" x="145" y="57" width="54" height="54" rx="14"/>
+  <rect fill="#15201A" x="57" y="145" width="54" height="54" rx="14"/>
+  <rect fill="#15201A" x="145" y="145" width="54" height="54" rx="14"/>
+  <rect stroke="#F5F7F2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" x="57" y="57" width="54" height="54" rx="14"/>
+  <rect stroke="#F5F7F2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" x="145" y="57" width="54" height="54" rx="14"/>
+  <rect stroke="#F5F7F2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" x="57" y="145" width="54" height="54" rx="14"/>
+  <rect stroke="#F5F7F2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" x="145" y="145" width="54" height="54" rx="14"/>
+  <path stroke="#00D6A3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M111 84h34M172 111v34M145 172h-34M84 145v-34"/>
+  <circle fill="#B6FF3B" cx="128" cy="128" r="22"/>
+  <path stroke="#06120E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M128 116v24M116 128h24"/>
+  <circle fill="#00D6A3" cx="84" cy="84" r="5"/>
+  <circle fill="#00D6A3" cx="172" cy="84" r="5"/>
+  <circle fill="#00D6A3" cx="84" cy="172" r="5"/>
+  <circle fill="#00D6A3" cx="172" cy="172" r="5"/>
+</svg>
