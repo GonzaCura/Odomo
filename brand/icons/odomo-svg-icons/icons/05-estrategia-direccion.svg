@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">ODOMO - Estrategia y direccion</title>
+  <desc id="desc">Objetivo y ruta para representar foco estrategico y toma de decisiones.</desc>
+  <circle fill="#15201A" cx="116" cy="126" r="69"/>
+  <circle stroke="#F5F7F2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" cx="116" cy="126" r="69"/>
+  <circle stroke="#F5F7F2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" cx="116" cy="126" r="42"/>
+  <circle stroke="#00D6A3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" cx="116" cy="126" r="17"/>
+  <path stroke="#B6FF3B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" d="M135 107l49-49"/>
+  <path stroke="#B6FF3B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" d="M167 58h17v17"/>
+  <path stroke="#F5F7F2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M67 174c22 18 55 27 92 10"/>
+  <circle fill="#B6FF3B" cx="116" cy="126" r="7"/>
+  <circle fill="#00D6A3" cx="184" cy="58" r="5"/>
+</svg>
