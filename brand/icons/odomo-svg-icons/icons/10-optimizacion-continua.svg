@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">ODOMO - Optimizacion continua</title>
+  <desc id="desc">Ciclos entrelazados para representar mejora continua, iteracion y soporte.</desc>
+  <path fill="#15201A" d="M52 128c0-42 34-76 76-76s76 34 76 76-34 76-76 76-76-34-76-76Z"/>
+  <path stroke="#F5F7F2" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" d="M82 126c0-24 19-43 43-43h8"/>
+  <path stroke="#B6FF3B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" d="M156 87l-23-4 11 21"/>
+  <path stroke="#00D6A3" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" d="M174 130c0 24-19 43-43 43h-8"/>
+  <path stroke="#00D6A3" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" d="M100 169l23 4-11-21"/>
+  <path stroke="#F5F7F2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M90 128c18-20 58-20 76 0M90 128c18 20 58 20 76 0"/>
+  <circle fill="#B6FF3B" cx="144" cy="104" r="6"/>
+  <circle fill="#00D6A3" cx="112" cy="152" r="6"/>
+</svg>
