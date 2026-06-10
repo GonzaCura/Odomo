@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">ODOMO - Experiencia cliente</title>
+  <desc id="desc">Trayectoria conectada para CRM, ventas, servicio y relacion con clientes.</desc>
+  <path fill="#15201A" d="M57 128c0-39 32-71 71-71s71 32 71 71-32 71-71 71-71-32-71-71Z"/>
+  <path stroke="#F5F7F2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M57 128c0-39 32-71 71-71s71 32 71 71-32 71-71 71-71-32-71-71Z"/>
+  <path stroke="#F5F7F2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M72 128c16-37 42-60 56-69 14 9 40 32 56 69"/>
+  <path stroke="#F5F7F2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M72 128c16 37 42 60 56 69 14-9 40-32 56-69"/>
+  <path stroke="#00D6A3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M76 128h104"/>
+  <circle fill="#B6FF3B" cx="128" cy="128" r="23"/>
+  <path stroke="#06120E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M116 128h24M128 116v24"/>
+  <path stroke="#B6FF3B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M67 128h-18M207 128h-18M128 49V31M128 225v-18"/>
+  <circle fill="#00D6A3" cx="49" cy="128" r="6"/>
+  <circle fill="#00D6A3" cx="207" cy="128" r="6"/>
+  <circle fill="#B6FF3B" cx="128" cy="31" r="5"/>
+  <circle fill="#B6FF3B" cx="128" cy="225" r="5"/>
+</svg>
