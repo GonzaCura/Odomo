@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">ODOMO - Ecosistema integral</title>
+  <desc id="desc">Red modular para representar soluciones integrales de negocio conectadas.</desc>
+  <path fill="#15201A" d="M62 184c6-55 39-92 66-112 27 20 60 57 66 112H62Z"/>
+  <path stroke="#F5F7F2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M66 184c4-29 18-59 37-82 9-11 18-20 25-26 7 6 16 15 25 26 19 23 33 53 37 82"/>
+  <path stroke="#F5F7F2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M89 184c3-23 16-49 34-75"/>
+  <path stroke="#F5F7F2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M167 184c-3-23-16-49-34-75"/>
+  <path stroke="#00D6A3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M82 145h92"/>
+  <path stroke="#B6FF3B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M98 111h60"/>
+  <circle fill="#F5F7F2" cx="128" cy="76" r="6"/>
+  <circle fill="#00D6A3" cx="98" cy="111" r="5"/>
+  <circle fill="#00D6A3" cx="158" cy="111" r="5"/>
+  <circle fill="#B6FF3B" cx="82" cy="145" r="5"/>
+  <circle fill="#B6FF3B" cx="174" cy="145" r="5"/>
+  <circle fill="#F5F7F2" cx="62" cy="184" r="5"/>
+  <circle fill="#F5F7F2" cx="194" cy="184" r="5"/>
+</svg>
