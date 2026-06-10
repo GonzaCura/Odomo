@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">ODOMO - Crecimiento escalable</title>
+  <desc id="desc">Modulo ascendente para comunicar crecimiento, mejora y escalabilidad.</desc>
+  <path fill="#15201A" d="M62 188h132v16H62z"/>
+  <rect fill="#F5F7F2" x="69" y="146" width="24" height="42" rx="8"/>
+  <rect fill="#F5F7F2" x="108" y="121" width="24" height="67" rx="8"/>
+  <rect fill="#F5F7F2" x="147" y="92" width="24" height="96" rx="8"/>
+  <path stroke="#B6FF3B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" d="M70 127c38-3 77-25 111-65"/>
+  <path stroke="#B6FF3B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" d="M159 62h22v22"/>
+  <path stroke="#00D6A3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M68 204h122"/>
+  <circle fill="#00D6A3" cx="70" cy="127" r="6"/>
+  <circle fill="#00D6A3" cx="122" cy="112" r="6"/>
+  <circle fill="#B6FF3B" cx="181" cy="62" r="6"/>
+</svg>
